@@ -5,7 +5,7 @@ Welcome to the Farm Management System project! This system is designed to assist
 ## Features
 
 - Crop Management: Keep track of different crop types, planting dates, harvest dates, and other relevant information.
-- Employee Management: Maintain a record of employees working on the farm, including their roles and contact details.
+- Employee Management: Maintain a record of employes working on the farm, including their roles and contact details.
 - User-Friendly Interface: The web-based interface makes it easy to enter, update, and retrieve data.
 - Database Integration: Utilizes MySQL for efficient storage and retrieval of information.
 
